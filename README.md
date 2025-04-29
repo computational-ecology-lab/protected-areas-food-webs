@@ -1,4 +1,4 @@
-Script to run analysis for ##'Mixed effects of protected areas on avian food webs'##
+Script to run analysis for **'Mixed effects of protected areas on avian food webs'**
 
 Author: Lucie Thompson
 Computational Ecology Lab. Swansea University. UK.
