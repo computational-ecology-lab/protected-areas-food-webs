@@ -1,6 +1,7 @@
 Script to run analysis for **'Mixed effects of protected areas on avian food webs'**
 
 Author: Lucie Thompson
+
 Computational Ecology Lab. Swansea University. UK.
 
 Using citizen science data, we explored the effect of protection on avian food webs across a network of 45 sites of protected and unprotected communities across Europe. 
