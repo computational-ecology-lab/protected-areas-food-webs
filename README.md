@@ -1,11 +1,12 @@
 Script to run analysis for 'Mixed effects of protected areas on avian food webs'
 
+Author: Lucie Thompson
+Computational Ecology Lab. Swansea University. UK.
+
 Using citizen science data, we explored the effect of protection on avian food webs across a network of 45 sites of protected and unprotected communities across Europe. 
 We studied how protection affects food webs, and how this effect varies with environmental conditions and management purposed. 
 
-
 Version 1.1 (added sensitivity analysis)
-
 
 R code to replicate the analysis:
 
@@ -45,15 +46,16 @@ Remoteness data available at < https://malariaatlas.org/> under “Travel time t
 
 Human density data for 2015 came from the Gridded Population of the World dataset, version 4.11 (GPWv4.11, UN WPP-Adjusted Population Density, v4.11, 2015) available at < https://ghsl.jrc.ec.europa.eu/download.php?ds=pop >
 
-
-
 You can skip running 1.DownloadGBIF.R as this is the original code used to download GBIF records, but only by using the doi generated at the original download 
 time will you have the exact same subset of occurrence records at the time of download.
 
 Run all .R scripts one by one from 2.EventList.eBird.R to fully replicate the analysis, OR to only re-run the analysis (no data initial data filtering, extraction etc), 
 use the Supplementary data 2 - Food web metrics and environmental variables.xlsx file to run 6.GetContrastInFoodWebMetrics.R and Supplementary data 1 - main contrast table.xlsx to run 8.CreatePlotsAndQuantifyDrivers.R. 
 
-For more information, consult main manuscript and supplementary methods
+For more information, consult main manuscript and supplementary methods or contact us at:
+
+lucie.thompson@swansea.ac.uk or 
+Miguel Lurgi: miguel.lurgi@swansea.ac.uk
 
 
 
